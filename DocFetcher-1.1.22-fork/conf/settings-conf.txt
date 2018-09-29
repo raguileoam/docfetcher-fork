@@ -13,7 +13,7 @@
 # * Clear or delete the entire file to restore all default
 #   values.
 #
-# Sat Sep 22 14:59:53 CLST 2018
+# Sat Sep 22 17:15:15 CLST 2018
 
 # Font entries, consisting of font name, height and style.
 PreviewWindows = Lucida Sans Unicode, 11, 0
@@ -55,7 +55,7 @@ RightSashVertical = 500, 500
 # String entries. All values allowed, except for \, \t, \n,
 # \r, \f, =, :, #, ! and leading whitespace, which must be
 # escaped by a preceding \.
-LastIndexedFolder = /home/raguileoam/Descargas/Asignaturas
+LastIndexedFolder = /home/raguileoam/Documentos/Asignaturas
 LastIndexedPSTFile = 
 
 # Integer entries.
